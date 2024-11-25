@@ -9,6 +9,8 @@ public class Main {
 
         System.out.println("Задание 1");
 
+        ыолоыволывлывсдлвыьлвлс
+
     }
 
 }
